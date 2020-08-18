@@ -1,0 +1,14 @@
+{
+    "name": "dscheinah/sx-log",
+    "description": "Simple error log implementation.",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "require": {
+        "php": "^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sx\\Log\\": "src/"
+        }
+    }
+}
